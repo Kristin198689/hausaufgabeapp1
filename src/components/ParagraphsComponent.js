@@ -1,5 +1,4 @@
-// src/components/ParagraphsComponent.js
-import React from 'react';
+
 
 function ParagraphsComponent() {
   return (

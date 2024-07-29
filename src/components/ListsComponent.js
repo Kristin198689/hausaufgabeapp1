@@ -1,5 +1,4 @@
-// src/components/ListsComponent.js
-import React from 'react';
+
 
 function ListsComponent() {
   return (
